@@ -14,6 +14,7 @@ const CollectionC = () => {
           layout='intrinsic'
           width={1000}
           height={1500}
+          alt={'Picture by Amer'}
         />
         <Image
           src='/assets/C/C2.PNG'
@@ -21,6 +22,7 @@ const CollectionC = () => {
           layout='intrinsic'
           width={2000}
           height={1500}
+          alt={'Picture by Amer'}
         />
         <Image
           src='/assets/C/C3.PNG'
@@ -28,6 +30,7 @@ const CollectionC = () => {
           layout='intrinsic'
           width={2000}
           height={1500}
+          alt={'Picture by Amer'}
         />
         <Image
           src='/assets/C/C4.PNG'
@@ -35,6 +38,7 @@ const CollectionC = () => {
           layout='intrinsic'
           width={1500}
           height={1500}
+          alt={'Picture by Amer'}
         />
 
         <Image
@@ -43,6 +47,7 @@ const CollectionC = () => {
           layout='intrinsic'
           width={1600}
           height={1500}
+          alt={'Picture by Amer'}
         />
 
         <Image
@@ -51,6 +56,7 @@ const CollectionC = () => {
           layout='intrinsic'
           width={1000}
           height={1500}
+          alt={'Picture by Amer'}
         />
       </div>
     </HStack>

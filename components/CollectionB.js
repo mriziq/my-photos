@@ -13,6 +13,7 @@ const CollectionB = () => {
         layout='intrinsic'
         width={4000}
         height={2800}
+        alt={'B11'}
       />
       <HStack>
 
@@ -23,6 +24,7 @@ const CollectionB = () => {
           layout='intrinsic'
           width={2000}
           height={1500}
+          alt={'B6'}
         />
 
         <Image
@@ -31,6 +33,7 @@ const CollectionB = () => {
           layout='intrinsic'
           width={1000}
           height={1500}
+          alt={'Picture by Amer'}
         />
 
         <Image
@@ -39,6 +42,7 @@ const CollectionB = () => {
           layout='intrinsic'
           width={3000}
           height={4000}
+          alt={'Picture by Amer'}
         />
 
         <Image
@@ -47,6 +51,7 @@ const CollectionB = () => {
           layout='intrinsic'
           width={1200}
           height={1700}
+          alt={'Picture by Amer'}
         />
         <Image
           src='/assets/B/B2.PNG'
@@ -54,6 +59,7 @@ const CollectionB = () => {
           layout='intrinsic'
           width={400}
           height={600}
+          alt={'Picture by Amer'}
         />
         <Image
           src='/assets/B/B3.PNG'
@@ -61,6 +67,7 @@ const CollectionB = () => {
           layout='intrinsic'
           width={600}
           height={400}
+          alt={'Picture by Amer'}
         />
         <div className={styles.grid}>
 
@@ -70,6 +77,7 @@ const CollectionB = () => {
             layout='intrinsic'
             width={500}
             height={700}
+            alt={'Picture by Amer'}
           />
           <Image
             src='/assets/B/B1.PNG'
@@ -77,6 +85,7 @@ const CollectionB = () => {
             layout='intrinsic'
             width={600}
             height={400}
+            alt={'Picture by Amer'}
           />
 
           <Image
@@ -85,6 +94,7 @@ const CollectionB = () => {
             layout='intrinsic'
             width={350}
             height={520}
+            alt={'Picture by Amer'}
           />
 
           <Image
@@ -93,6 +103,7 @@ const CollectionB = () => {
             layout='intrinsic'
             width={400}
             height={600}
+            alt={'Picture by Amer'}
           />
         </div>
       </HStack>

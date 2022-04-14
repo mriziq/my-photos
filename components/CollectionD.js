@@ -14,6 +14,7 @@ const CollectionD = () => {
           layout='intrinsic'
           width={1700}
           height={1500}
+          alt={'Picture by Amer'}
         />
         <div className={styles.grid}>
           <Image
@@ -22,6 +23,7 @@ const CollectionD = () => {
             layout='intrinsic'
             width={1800}
             height={1500}
+            alt={'Picture by Amer'}
           />
           <Image
             src='/assets/D/D4.PNG'
@@ -29,6 +31,7 @@ const CollectionD = () => {
             layout='intrinsic'
             width={2000}
             height={1500}
+            alt={'Picture by Amer'}
           />
         </div>
       </VStack>
@@ -40,6 +43,7 @@ const CollectionD = () => {
             layout='intrinsic'
             width={1000}
             height={1500}
+            alt={'Picture by Amer'}
           />
 
 
@@ -49,6 +53,7 @@ const CollectionD = () => {
             layout='intrinsic'
             width={1000}
             height={1500}
+            alt={'Picture by Amer'}
           />
           <Image
             src='/assets/D/D9.PNG'
@@ -56,6 +61,7 @@ const CollectionD = () => {
             layout='intrinsic'
             width={1500}
             height={1500}
+            alt={'Picture by Amer'}
           />
         </div>
 
@@ -65,6 +71,7 @@ const CollectionD = () => {
           layout='intrinsic'
           width={1300}
           height={1500}
+          alt={'Picture by Amer'}
         />
       </HStack>
 
@@ -74,6 +81,7 @@ const CollectionD = () => {
         layout='intrinsic'
         width={800}
         height={1000}
+        alt={'Picture by Amer'}
       />
       <Image
         src='/assets/D/D12.PNG'
@@ -81,6 +89,7 @@ const CollectionD = () => {
         layout='intrinsic'
         width={1700}
         height={1300}
+        alt={'Picture by Amer'}
       />
     </VStack>
   )
