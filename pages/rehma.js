@@ -22,24 +22,16 @@ export default function Home() {
         <meta name="description" content="Rendered and doing well thank you." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Box
-        align={'center'}
-        justify={'center'}
-      >
-        {/* className={'window'}
+        <div className={'window'}
           style={{
             flex: '1',
             flexDirection: 'column',
-            alignItems: 'center',
+            alignContent: 'center',
             justifyContent: 'center',
-            justifyItems: 'center'
           }
-          } */}
-        <div
+          }
         >
-          <VStack
-            align={'center'}
-            justify={'center'}>
+          <VStack>
             <VStack
               paddingTop={'20px'}
               paddingBottom={'40px'}
@@ -68,7 +60,6 @@ export default function Home() {
           </VStack>
 
         </div>
-      </Box>
 
 
     </div>
