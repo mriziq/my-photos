@@ -22,44 +22,48 @@ export default function Home() {
         <meta name="description" content="Rendered and doing well thank you." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-        <div className={'window'}
-          style={{
-            flex: '1',
-            flexDirection: 'column',
-            alignContent: 'center',
-            justifyContent: 'center',
-          }
-          }
+      <div className={'window'}
+        style={{
+          flex: '1',
+          flexDirection: 'column',
+          alignContent: 'center',
+          justifyContent: 'center',
+        }
+        }
+      >
+        <VStack
+          align={"center"}
+          justify={"cetner"}
         >
-          <VStack>
-            <VStack
-              paddingTop={'20px'}
-              paddingBottom={'40px'}
+          <VStack
+            paddingTop={'20px'}
+            paddingBottom={'40px'}
+          >
+            <Text
+              fontSize={'48px'}
+              padding={'60px'}
             >
-              <Text
-                fontSize={'48px'}
-                padding={'60px'}
-              >
-                4 <b>REHMA</b>
-              </Text>
-              <Text className={'animate-flicker'}>pls wait 4 HD images to load </Text>
-              <Text><b>FROM @AMER.PY (AMER)</b></Text>
-              <Text>P r o n o u n c e d : uh • m-air</Text>
-              <Text>P r o n o u n s : he / him</Text>
-            </VStack>
-            <CollectionA />
-            <Crucify />
-            <CollectionB />
-            <CollectionD />
-            <CollectionC />
-            <Box paddingBottom={'50px'}>
-              <NextLink href='/tarot' passHref >
-                <Button fontFamily={'sans-serif'}> Click For Tarot Card! </Button>
-              </NextLink>
-            </Box>
+              4 <b>REHMA</b>
+            </Text>
+            <Text> Zoom in anywhere:)</Text>
+            <Text className={'animate-flicker'}>pls wait 4 HD images to load </Text>
+            <Text><b>FROM @AMER.PY (AMER)</b></Text>
+            <Text>P r o n o u n c e d : uh • m-air</Text>
+            <Text>P r o n o u n s : he / him</Text>
           </VStack>
+          <CollectionA />
+          <Crucify />
+          <CollectionB />
+          <CollectionD />
+          <CollectionC />
+          <Box paddingBottom={'50px'}>
+            <NextLink href='/tarot' passHref >
+              <Button fontFamily={'sans-serif'}> Click For Tarot Card! </Button>
+            </NextLink>
+          </Box>
+        </VStack>
 
-        </div>
+      </div>
 
 
     </div>
