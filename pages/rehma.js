@@ -28,7 +28,8 @@ export default function Home() {
       >
         <div className={'window'}
           style={{
-            position: 'flex',
+            flex: '1',
+            flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'center',
             justifyItems: 'center'
