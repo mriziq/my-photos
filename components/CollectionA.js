@@ -9,7 +9,7 @@ const CollectionA = () => {
     <HStack>
     <div className={styles.grid}>
       <Image
-        src='/assets/A/A3.PNG'
+        src='https://media.discordapp.net/attachments/964105649095061544/964105817261473862/A3.png'
         Quality={100}
         layout='intrinsic'
         width={400}
@@ -17,7 +17,7 @@ const CollectionA = () => {
         alt={'A3'}
       />
       <Image
-        src='/assets/A/A2.PNG'
+        src='https://media.discordapp.net/attachments/964105649095061544/964105816565252096/A2.png'
         Quality={100}
         layout='intrinsic'
         width={320}
@@ -25,7 +25,7 @@ const CollectionA = () => {
         alt={'A2'}
       />
       <Image
-        src='/assets/A/A5.PNG'
+        src='https://media.discordapp.net/attachments/964105649095061544/964105818255536168/A5.png'
         Quality={100}
         layout='intrinsic'
         width={130}
@@ -36,7 +36,7 @@ const CollectionA = () => {
 
     <div className={styles.grid}>
       <Image
-        src='/assets/A/A4.PNG'
+        src='https://media.discordapp.net/attachments/964105649095061544/964105817680924702/A4.png'
         Quality={100}
         layout='intrinsic'
         width={1000}
@@ -45,7 +45,7 @@ const CollectionA = () => {
       />
 
       <Image
-        src='/assets/A/A1.PNG'
+        src='https://media.discordapp.net/attachments/964105649095061544/964105816011599872/A1.png'
         Quality={100}
         layout='intrinsic'
         width={1000}
@@ -54,7 +54,7 @@ const CollectionA = () => {
       />
 
       <Image
-        src='/assets/A/A6.PNG'
+        src='https://media.discordapp.net/attachments/964105649095061544/964105818683342899/A6.png'
         Quality={100}
         layout='intrinsic'
         width={1400}
