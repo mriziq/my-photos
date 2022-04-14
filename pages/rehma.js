@@ -26,7 +26,7 @@ export default function Home() {
         align={'center'}
         justify={'center'}
       >
-        <div className={'window'}
+        {/* className={'window'}
           style={{
             flex: '1',
             flexDirection: 'column',
@@ -34,7 +34,8 @@ export default function Home() {
             justifyContent: 'center',
             justifyItems: 'center'
           }
-          }
+          } */}
+        <div 
         >
           <VStack>
             <VStack
