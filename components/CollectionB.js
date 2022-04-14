@@ -8,7 +8,7 @@ const CollectionB = () => {
   return (
     <VStack>
       <Image
-        src='/assets/B/B11.PNG'
+        src='https://media.discordapp.net/attachments/964105649095061544/964105926481166357/B11.png'
         Quality={100}
         layout='intrinsic'
         width={4000}
@@ -19,7 +19,7 @@ const CollectionB = () => {
 
 
         <Image
-          src='/assets/B/B6.PNG'
+          src='https://media.discordapp.net/attachments/964105649095061544/964106043141537812/B6.png'
           Quality={100}
           layout='intrinsic'
           width={2000}
@@ -28,7 +28,7 @@ const CollectionB = () => {
         />
 
         <Image
-          src='/assets/B/B7.PNG'
+          src='https://media.discordapp.net/attachments/964105649095061544/964106043678396427/B7.png'
           Quality={100}
           layout='intrinsic'
           width={1000}
@@ -37,7 +37,7 @@ const CollectionB = () => {
         />
 
         <Image
-          src='/assets/B/B8.PNG'
+          src='https://media.discordapp.net/attachments/964105649095061544/964106044005580830/B8.png'
           Quality={100}
           layout='intrinsic'
           width={3000}
@@ -46,7 +46,7 @@ const CollectionB = () => {
         />
 
         <Image
-          src='/assets/B/B9.PNG'
+          src='https://media.discordapp.net/attachments/964105649095061544/964106044424990750/B9.png'
           Quality={100}
           layout='intrinsic'
           width={1200}
@@ -54,15 +54,15 @@ const CollectionB = () => {
           alt={'Picture by Amer'}
         />
         <Image
-          src='/assets/B/B2.PNG'
+          src='https://media.discordapp.net/attachments/964105649095061544/964106041287643186/B2.png'
           Quality={100}
           layout='intrinsic'
           width={400}
           height={600}
           alt={'Picture by Amer'}
         />
-        <Image
-          src='/assets/B/B3.PNG'
+        <Image 
+          src='https://media.discordapp.net/attachments/964105649095061544/964106041950363668/B3.png'
           Quality={100}
           layout='intrinsic'
           width={600}
@@ -72,7 +72,7 @@ const CollectionB = () => {
         <div className={styles.grid}>
 
           <Image
-            src='/assets/B/10.PNG'
+            src='https://media.discordapp.net/attachments/964105649095061544/964106045523906560/B10.png'
             Quality={100}
             layout='intrinsic'
             width={500}
@@ -80,7 +80,7 @@ const CollectionB = () => {
             alt={'Picture by Amer'}
           />
           <Image
-            src='/assets/B/B1.PNG'
+            src='https://media.discordapp.net/attachments/964105649095061544/964106040679485461/B1.png'
             Quality={100}
             layout='intrinsic'
             width={600}
@@ -89,7 +89,7 @@ const CollectionB = () => {
           />
 
           <Image
-            src='/assets/B/B4.PNG'
+            src='https://media.discordapp.net/attachments/964105649095061544/964106042378166302/B4.png'
             Quality={100}
             layout='intrinsic'
             width={350}
@@ -98,7 +98,7 @@ const CollectionB = () => {
           />
 
           <Image
-            src='/assets/B/B5.PNG'
+            src='https://media.discordapp.net/attachments/964105649095061544/964106042789228584/B5.png'
             Quality={100}
             layout='intrinsic'
             width={400}

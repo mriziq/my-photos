@@ -9,7 +9,7 @@ const CollectionD = () => {
     <VStack>
       <VStack>
         <Image
-          src='/assets/D/D7.PNG'
+          src='https://media.discordapp.net/attachments/964105649095061544/964106166219190292/D7.png'
           Quality={100}
           layout='intrinsic'
           width={1700}
@@ -18,7 +18,7 @@ const CollectionD = () => {
         />
         <div className={styles.grid}>
           <Image
-            src='/assets/D/D3.PNG'
+            src='https://media.discordapp.net/attachments/964105649095061544/964106164801536031/D3.png'
             Quality={100}
             layout='intrinsic'
             width={1800}
@@ -26,7 +26,7 @@ const CollectionD = () => {
             alt={'Picture by Amer'}
           />
           <Image
-            src='/assets/D/D4.PNG'
+            src='https://media.discordapp.net/attachments/964105649095061544/964106165292253224/D4.png'
             Quality={100}
             layout='intrinsic'
             width={2000}
@@ -38,7 +38,7 @@ const CollectionD = () => {
       <HStack>
         <div className={styles.grid}>
           <Image
-            src='/assets/D/D6.PNG'
+            src='https://media.discordapp.net/attachments/964105649095061544/964106165778780160/D6.png'
             Quality={100}
             layout='intrinsic'
             width={1000}
@@ -48,7 +48,7 @@ const CollectionD = () => {
 
 
           <Image
-            src='/assets/D/D8.PNG'
+            src='https://media.discordapp.net/attachments/964105649095061544/964106166730891354/D8.png'
             Quality={100}
             layout='intrinsic'
             width={1000}
@@ -56,7 +56,7 @@ const CollectionD = () => {
             alt={'Picture by Amer'}
           />
           <Image
-            src='/assets/D/D9.PNG'
+            src='https://media.discordapp.net/attachments/964105649095061544/964106167469105213/D9.png'
             Quality={100}
             layout='intrinsic'
             width={1500}
@@ -66,7 +66,7 @@ const CollectionD = () => {
         </div>
 
         <Image
-          src='/assets/D/D10.PNG'
+          src='https://media.discordapp.net/attachments/964105649095061544/964106167901098024/D10.png'
           Quality={100}
           layout='intrinsic'
           width={1300}
@@ -76,7 +76,7 @@ const CollectionD = () => {
       </HStack>
 
       <Image
-        src='/assets/D/D11.PNG'
+        src='https://media.discordapp.net/attachments/964105649095061544/964106066151497738/D11.png'
         Quality={100}
         layout='intrinsic'
         width={800}
@@ -84,7 +84,7 @@ const CollectionD = () => {
         alt={'Picture by Amer'}
       />
       <Image
-        src='/assets/D/D12.PNG'
+        src='https://media.discordapp.net/attachments/964105649095061544/964106066466050088/D12.png'
         Quality={100}
         layout='intrinsic'
         width={1700}
