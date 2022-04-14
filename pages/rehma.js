@@ -35,9 +35,11 @@ export default function Home() {
             justifyItems: 'center'
           }
           } */}
-        <div 
+        <div
         >
-          <VStack>
+          <VStack
+            align={'center'}
+            justify={'center'}>
             <VStack
               paddingTop={'20px'}
               paddingBottom={'40px'}
