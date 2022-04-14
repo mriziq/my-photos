@@ -26,7 +26,15 @@ export default function Home() {
         align={'center'}
         justify={'center'}
       >
-        <div className={'window'}>
+        <div className={'window'}
+          style={{
+            position: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            justifyItems: 'center'
+          }
+          }
+        >
           <VStack>
             <VStack
               paddingTop={'20px'}
