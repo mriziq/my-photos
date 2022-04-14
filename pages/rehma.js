@@ -58,7 +58,7 @@ export default function Home() {
           <CollectionC />
           <Box paddingBottom={'50px'}>
             <NextLink href='/tarot' passHref >
-              <Button fontFamily={'sans-serif'}> Click For Tarot Card! </Button>
+              <Button fontFamily={'sans-serif'}> Double Click For Tarot Card! </Button>
             </NextLink>
           </Box>
         </VStack>
