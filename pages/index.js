@@ -43,7 +43,6 @@ export default function Home() {
                 paddingTop={"30px"}
                 fontSize={'15px'}
             > Zoom in anywhere:) </Text>
-            <Text fontSize={'18px'}><b>FROM @AMER.PY (AMER)</b></Text>
             <Text>P r o n o u n c e d : uh • m-air</Text>
           </VStack>
           <CollectionA />
