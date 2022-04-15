@@ -55,14 +55,14 @@ const CollectionD = () => {
             height={1500}
             alt={'Picture by Amer'}
           />
-          <Image
+          {/* <Image
             src='https://media.discordapp.net/attachments/964105649095061544/964106167469105213/D9.png'
             Quality={100}
             layout='intrinsic'
             width={1500}
             height={1500}
             alt={'Picture by Amer'}
-          />
+          /> */}
         </div>
 
         <Image
