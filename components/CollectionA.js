@@ -61,6 +61,14 @@ const CollectionA = () => {
         height={1300}
         alt={'A6'}
       />
+            <Image
+        src='https://media.discordapp.net/attachments/964105649095061544/964773172081745920/A10.png'
+        Quality={100}
+        layout='intrinsic'
+        width={1000}
+        height={1332}
+        alt={'A6'}
+      />
     </div>
   </HStack>
   )
