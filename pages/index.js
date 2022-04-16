@@ -42,8 +42,8 @@ export default function Home() {
             padding={'15px'}
           >
           </VStack>
-          <CollectionE/>
           <CollectionA />
+          <CollectionE/>
           <Crucify />
           <CollectionB />
           <CollectionD />
