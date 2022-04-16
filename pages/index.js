@@ -19,7 +19,7 @@ export default function Home() {
 
     <div>
       <Head>
-        <title>Amer's Photos</title>
+        <title>Amer's Photos 🏷</title>
         <meta name="description" content="Rendered and doing well thank you." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
