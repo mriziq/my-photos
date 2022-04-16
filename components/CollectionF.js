@@ -17,14 +17,14 @@ const CollectionF = () => {
         alt={'Picture by Amer'}
       />
       <HStack>
-      <Image
+      {/* <Image
         src='https://media.discordapp.net/attachments/964105649095061544/964800941654179850/F2.png'
         Quality={100}
         layout='intrinsic'
         width={2000}
         height={1238}
         alt={'Picture by Amer'}
-      />
+      /> */}
       <Image
         src='https://media.discordapp.net/attachments/964105649095061544/964800942346231808/F3.png'
         Quality={100}
@@ -46,14 +46,14 @@ const CollectionF = () => {
           height={1238}
           alt={'Picture by Amer'}
         />
-        <Image
-          src='https://media.discordapp.net/attachments/964105649095061544/964800943591948298/F5.png'
-          Quality={100}
-          layout='intrinsic'
-          width={934}
-          height={1238}
-          alt={'Picture by Amer'}
-        />
+          {/* <Image
+            src='https://media.discordapp.net/attachments/964105649095061544/964800943591948298/F5.png'
+            Quality={100}
+            layout='intrinsic'
+            width={934}
+            height={1238}
+            alt={'Picture by Amer'}
+          /> */}
         <Image
           src='https://media.discordapp.net/attachments/964105649095061544/964800996805083186/F7.png'
           Quality={100}
