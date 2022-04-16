@@ -10,8 +10,10 @@ import CollectionA from '../components/CollectionA'
 import CollectionB from '../components/CollectionB'
 import CollectionC from '../components/CollectionC'
 import CollectionD from '../components/CollectionD';
-import Crucify from '../components/Crucify'
 import CollectionE from '../components/CollectionE';
+import CollectionF from '../components/CollectionF';
+import Crucify from '../components/Crucify'
+
 
 export default function Home() {
 
@@ -43,6 +45,7 @@ export default function Home() {
           >
           </VStack>
           <CollectionE/>
+          <CollectionF/>
           <CollectionA />
           <Crucify />
           <CollectionB />

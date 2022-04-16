@@ -11,6 +11,7 @@ import CollectionB from '../components/CollectionB'
 import CollectionC from '../components/CollectionC'
 import CollectionD from '../components/CollectionD';
 import CollectionE from '../components/CollectionE';
+import CollectionF from '../components/CollectionF';
 import Crucify from '../components/Crucify'
 
 export default function Home() {
@@ -52,6 +53,7 @@ export default function Home() {
             <Text>P r o n o u n c e d : uh • m-air</Text>
             <Text>P r o n o u n s : he / him</Text>
           </VStack>
+          <CollectionF/>
           <CollectionE/>
           <CollectionA />
           <Crucify />

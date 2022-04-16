@@ -9,27 +9,27 @@ const CollectionE = () => {
     <VStack paddingTop={"15PX"} paddingBottom={"15PX"}
       >
       <Image
-        src='https://media.discordapp.net/attachments/964105649095061544/964751601376055316/8EAG6317_2.jpg'
+        src='https://media.discordapp.net/attachments/964105649095061544/964804903954419752/Screen_Shot_2022-04-16_at_1.29.57_AM.png'
         Quality={100}
         layout='intrinsic'
-        width={1994}
-        height={1333}
+        width={1715}
+        height={1238}
         alt={'Picture by Amer'}
       />
       <Image
-        src='https://media.discordapp.net/attachments/964105649095061544/964751601665445958/8EAG6329.jpg'
+        src='https://media.discordapp.net/attachments/964105649095061544/964804914234679366/Screen_Shot_2022-04-16_at_1.30.00_AM.png'
         Quality={100}
         layout='intrinsic'
-        width={941}
-        height={1332}
+        width={891}
+        height={1238}
         alt={'Picture by Amer'}
       />
       <Image
-        src='https://media.discordapp.net/attachments/964105649095061544/964751605083799562/IMG_0661.jpg'
+        src='https://media.discordapp.net/attachments/964105649095061544/964805381421416498/Screen_Shot_2022-04-16_at_1.31.34_AM.png'
         Quality={100}
         layout='intrinsic'
-        width={2000}
-        height={1333}
+        width={1722}
+        height={1238}
         alt={'Picture by Amer'}
       />
 
