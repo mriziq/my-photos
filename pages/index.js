@@ -39,12 +39,8 @@ export default function Home() {
           <VStack
             paddingTop={'20px'}
             paddingBottom={'40px'}
+            padding={'15px'}
           >
-            <Text className={'animate-flicker'}
-                paddingTop={"30px"}
-                fontSize={'15px'}
-            > Zoom in anywhere:) </Text>
-            <Text>P r o n o u n c e d : uh • m-air</Text>
           </VStack>
           <CollectionE/>
           <CollectionA />
