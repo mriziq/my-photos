@@ -44,8 +44,8 @@ export default function Home() {
             padding={'15px'}
           >
           </VStack>
-          <CollectionE/>
-          <CollectionF/>
+          <CollectionE />
+          <CollectionF />
           <CollectionA />
           <Crucify />
           <CollectionB />
@@ -54,7 +54,28 @@ export default function Home() {
         </VStack>
 
       </div>
+      <footer
+        className='title-bar'
+        style={{
+          position: 'fixed',
+          bottom: 0,
+          width: '100%',
+          display: 'flex',
+          flexDirection: 'row',
+          justifyContent: 'center',
+          alignItems: 'center'
 
+        }}
+      >
+        <NextLink href="/contact" passHref>
+          <Button className={''}>
+            HIT ME UP
+          </Button>
+
+        </NextLink>
+
+
+      </footer>
 
     </div>
 
