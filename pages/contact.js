@@ -15,7 +15,7 @@ export default function Contact() {
 
         <div>
             <Head>
-                <title>Don't Be Shy</title>
+                <title>Don&apos;t Be Shy</title>
                 <meta name="description" content="Rendered and doing well thank you." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
