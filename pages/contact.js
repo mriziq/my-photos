@@ -33,12 +33,12 @@ export default function Contact() {
                         <VStack pt="6rem" textAlign="center" align={"center"} justify={"center"} spacing={4} paddingBottom={"35px"}>
                             <Text fontSize={"xl"} fontWeight="bold">Amer Mriziq</Text>
                             <Text fontSize={"lg"}>Creative Director -  VHS Video Producer - Visual Photographer <br /> Software Engineer -  Graphic Designer</Text>
-                            <Image
+                            {/* <Image
                                 src={ELZARGIF}
                                 width={'300px'}
                                 height={'300px'}
                                 alt='elzar'
-                            />
+                            /> */}
 
 
                             <Text fontSize={"md"} color="purple">a m e r k m r i z i q @gmail.com</Text>
