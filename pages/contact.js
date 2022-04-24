@@ -49,17 +49,16 @@ export default function Contact() {
                                 </Button>
                             </Link>
 
-                            <Link href="https://www.instagram.com/amer.py" passHref target="_blank" rel="noopener noreferrer">
-                                <Button className={''} color="brown " size="lg">
-                                    MY INSTAGRAM                        </Button>
-                            </Link>
-
                             <Link href="https://www.instagram.com/amercanfilm" passHref target="_blank" rel="noopener noreferrer">
                                 <Button className={''} color="green" size="lg">
                                     @AMERCANFILM
                                 </Button>
                             </Link>
 
+                            <Link href="https://www.instagram.com/amer.py" passHref target="_blank" rel="noopener noreferrer">
+                                <Button className={''} color="brown " size="lg">
+                                    MY INSTAGRAM                        </Button>
+                            </Link>
                         </VStack>
 
 
